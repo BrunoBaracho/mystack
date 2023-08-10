@@ -1,30 +1,26 @@
 <p align="center">
-  <a href="https://github.com/arthurspk/guiadobackend">
+  <a href="">
     <img src="./images/guia.png" alt="Guia pessoal de estudos" width="160" height="160">
   </a>
-  <h1 align="center">Guia pessoal de estudos</h1>
+  <h1 align="center">Minha Stack/h1>
 </p>
 
-## :dart: Guia pessoal de estudos
+## :dart: Minha stack em desenvolvimento.
 
 Esse roadmap é um guia de estudos particular utilizado de base para meus estudos
-das seguintes linguagens de programação, bibliotecas, frameworks e banco de dados,
-ambas as categorias possuem anotações de como estudar, documentações, cursos, e dica para
-a maior assimilação de todo o conteúdo presente nesse roadmap.
+de linguagens de programação, bibliotecas, frameworks e banco de dados.
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
-[<img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/seixasqlc/)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arthurspk/)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/manotoquinho)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/arthurspk/](https://www.linkedin.com/in/bruno-baracho-655868212/))
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g)
 </sub>
 
-## 💡 Proposta desse guia
+## 💡 Proposta desse repositório
 
-> A proposta deste guia é auxiliar com conteúdos para estudo e ferramentas para o meu estudo pessoal, sinta-se a vontade para tomar ele de base para os seus estudos caso você veja que existe alguma tecnologia em comum na nossa stack de linguagens ou frameworks, esse guia não tem como proposta guiar a todos por esse caminho, essa é um stack formada para estudos pessoais, porém você pode acompanhar outros guias como:
+> A proposta deste repositório é mostrar para aqueles que desejam saber, como anda o desenvolvimento da minha stack pessoal, fique à vontade para usar-lá como base para sua própria stack. Os links abaixo também te auxiliaram em seus estudos.
+> Para facilitar o entendimento as marcações em 🟢 serão de conteudos concluidos, as de 🟡 serão em estudo e as 🔴 em aguardo.
 
 - [Guia de Cyber Security](https://github.com/arthurspk/guiadecybersecurity)
 - [Guia Extenso de Programação](https://github.com/arthurspk/guiadevbrasil)
@@ -50,203 +46,151 @@ a maior assimilação de todo o conteúdo presente nesse roadmap.
 - [🗂️ Frameworks & Bibliotecas](#%EF%B8%8F-frameworks--bibliotecas) <br>
 - [🕵🏻 Segurança da Informação](#-segurança-da-informação) <br>
 
-## 📝 Anotações & Estudo
-
-![Anotação de estudos](./images/Bdn.jpg)
-
 <hr>
-
-## 📃 Seções do Repositório
-
-- [📃 Documentação Técnica](#) <br>
-- [☁️ Serviços de Nuvem](#) <br>
-- [🔗 Pré-processadores](#) <br>
-- [📜 APIs & Arquitetura](#) <br>
-- [📦 Gerenciadores de Pacotes](#) <br>
-- [🧪 Testes Unitários](#) <br>
-- [🎲 Banco de Dados](#) <br>
-- [💾 Sistemas Operacionais](#) <br>
-- [📚 Conteúdo Complementar](#) <br>
-- [🧑🏻‍💻 Linguagens & Tecnologias](#) <br>
-- [🎨 Design & UX/UI](#) <br>
-- [🛠️ Ferramentas & Extensões](#) <br>
-- [🗂️ Frameworks & Bibliotecas](#) <br>
-- [🕵🏻 Segurança da Informação](#) <br>
 
 ## 📃 Documentação Técnica
 
-> Seção de estudos que irá encaminhar você para aba de documentação técnica.
+> Seção de estudo sobre documentação técnica.
 
-- [Mermaid.js](#)
-- [Unified Modeling Language (UML)](#)
-- [Smooth Documentation](#)
-- [Docusaurus](#)
+- [Mermaid.js](#) 🔴
+- [Unified Modeling Language (UML)](#) 🔴
+- [Smooth Documentation](#) 🔴
+- [Docusaurus](#) 🔴
 
 ## ☁️ Serviços de Nuvem
 
-> Seção de estudos que irá encaminhar você para aba de serviços de nuvem.
+> Seção de estudo sobre serviços de nuvem.
 
-- [Amazon Web Services, Inc.](#)
-- [Google Cloud Platform](#)
-- [Microsoft Azure](#)
+- [Amazon Web Services, Inc.](#) 🔴
+- [Google Cloud Platform](#) 🔴
+- [Microsoft Azure](#) 🔴
 
 ## 🔗 Pré-processadores
 
-> Seção de estudos que irá encaminhar você para aba de serviços de nuvem.
+> Seção de estudos sobre pré-processadores.
 
-- [SaSS](#)
-- [Less](#)
-- [Stylus](#)
+- [SaSS](#) 🔴
+- [Less](#) 🔴
+- [Stylus](#) 🔴
 
 ## 📜 APIs & Arquitetura
 
-> Seção de estudos que irá encaminhar você para aba de APIs e arquitetura.
+> Seção de estudos sobre APIs e arquitetura.
 
-- [API Rest](#)
-- [API GraphQL](#)
-- [API Soap](#)
+- [API Rest](#) 🟡
+- [API GraphQL](#) 🔴
 
 ## 📦 Gerenciadores de Pacotes
 
-> Seção de estudos que irá encaminhar você para aba de gereciadores de pacotes.
+> Seção de estudos sobre gereciadores de pacotes.
 
-- [NPM](#)
-- [pNpm](#)
-- [Yarn](#)
-- [Webpack](#)
+- [NPM](#) 🟡
+- [pNpm](#) 🔴
+- [Yarn](#) 🟡
 
 ## 🧪 Testes Unitários
 
-> Seção de estudos que irá encaminhar você para aba de testes unitários.
+> Seção de estudos sobre testes unitários.
 
-- [AVA](#)
-- [Jest](#)
-- [Mocha](#)
-- [VItest](#)
-- [Jasmine](#)
-- [Cypress](#)
-- [Puppeteer](#)
-
+- [Jest](#) 🔴
+- [Cypress](#) 🔴
+  
 ## 🎲 Banco de Dados
 
-> Seção de estudos que irá encaminhar você para aba de banco de dados.
+> Seção de estudos sobre banco de dados.
 
-- [SQL](#)
-- [MySQL](#)
-- [MongoDB](#)
-- [PostgreeSQL](#)
-- [DynamoDB](#)
+- [MySQL](#) 🟡
+- [MongoDB](#) 🟡
+- [PostgreeSQL](#) 🔴
+- [DynamoDB](#) 🔴
 
 ## 💾 Sistemas Operacionais
 
-> Seção de estudos que irá encaminhar você para aba de sistemas operacionais.
+> Seção de estudos sobre sistemas operacionais.
 
-- [Windows](#)
-- [Windows Server](#)
-- [Ubuntu](#)
-- [Debian](#)
-- [Kali Linux](#)
-- [Parrot Security](#)
-- [MacOS OS X](#)
+- [Windows](#) 🟢
+- [Windows Server](#) 
+- [Ubuntu](#) 🟢
+- [Debian](#) 🟢
+- [Kali Linux](#) 🟡
+- [Parrot Security](#) 🟡
+- [MacOS OS X](#) 🔴
 
 ## 📚 Conteúdo Complementar
 
-> Seção de estudos que irá encaminhar você para aba de conteúdo complementar.
+>Seção sobre alguns estudos complementares.
 
-- [Algoritmos](#)
-- [Redes de Computadores](#)
-- [Arquitetura de Redes](#)
-- [Lógica de Programação](#)
-- [Estrutura de dados](#)
-- [Protocos da Internet](#)
-- [Expressões Regulares](#)
+- [Algoritmos](#) 🟡
+- [Redes de Computadores](#) 🟢
+- [Arquitetura de Redes](#) 🟢
+- [Lógica de Programação](#) 🟢
+- [Estrutura de dados](#) 🟢
+- [Protocos da Internet](#) 🟡
+- [Expressões Regulares](#) 🟡
 
-## 🧑🏻‍💻 Linguagens & Tecnologias
+## 🧑🏻‍💻 Linguagens de programação
 
-> Seção de estudos que irá encaminhar você para aba de linguagens e tecnologias.
+> Seção de estudos sobre linguagens e tecnologias.
 
-- [C](#)
-- [C#](#)
-- [C++](#)
-- [HTML](#)
-- [CSS](#)
-- [JavaScript](#)
-- [TypeScript](#)
-- [Python](#)
-- [Golang](#)
-- [Node.js](#)
-- [Shell Script](#)
-- [Assembly](#)
-- [Swift](#)
-- [Flutter](#)
+- [SQL](#) 🟡
+- [C](#) 🔴
+- [C#](#) 🔴
+- [C++](#) 🔴
+- [HTML](#) 🟢
+- [CSS](#) 🟢
+- [JavaScript](#) 🟢
+- [TypeScript](#) 🟡
+- [Python](#) 🟢
+- [Golang](#) 🔴
+- [Shell Script](#) 🔴
 
 ## 🎨 Design & UX/UI
 
-> Seção de estudos que irá encaminhar você para aba de design e ux/ui.
+> Seção de estudos sobre design e ux/ui.
 
-- [Figma](#)
-- [Canva](#)
-- [Adobe XD](#)
-- [UI & UX Design](#)
-- [Design Systems](#)
-- [Adobe Premiere Pro](#)
-- [Adobe Photoshop ES6](#)
+- [Figma](#) 🟢
+- [Canva](#) 🟢
+- [Adobe XD](#) 🟢
+- [UI & UX Design](#) 🟡
+- [Adobe Premiere Pro](#) 🟡
+- [Adobe Photoshop ES6](#) 🟡
 
 ## 🛠️ Ferramentas & Extensões
 
-> Seção de estudos que irá encaminhar você para aba ferramentas e extensões.
+> Seção de estudos sobre ferramentas e extensões.
 
-- [Git](#)
-- [Fig.io](#)
-- [Github](#)
-- [Terminal](#)
-- [Docker](#)
-- [Postman](#)
-- [Insomnia](#)
-- [Virtual Box](#)
-- [Visual Studio Code](#)
-- [VMWare Workstation Pro](#)
+- [Git](#) 🟢
+- [Fig.io](#) 🔴
+- [Github](#) 🟢
+- [Terminal](#) 🟢
+- [Docker](#) 🟢
+- [Postman](#) 🔴
+- [Insomnia](#) 🟡
+- [Virtual Box](#) 🟢
+- [Visual Studio Code](#) 🟢
+- [VMWare Workstation Pro](#) 🟢
 
-## 🗂️ Frameworks & Bibliotecas
+## 🗂️ Frameworks & Tecnologias
 
-> Seção de estudos que irá encaminhar você para aba frameworks e bibliotecas.
+> Seção de estudos sobre frameworks e tecnologias.
 
-- [React](#)
-- [Next](#)
-- [Nest](#)
-- [Vue](#)
-- [Angular](#)
-- [Bootstrap](#)
-- [Wordpress](#)
-- [Serverless](#)
-- [Gatsby](#)
-- [Express](#)
-- [jQuery](#)
-- [Redux](#)
-- [Tailwind CSS](#)
-- [Styled Components](#)
-- [Material UI](#)
-- [Charkra UI](#)
-- [Mantine](#)
-- [NextUI](#)
-- [Daisy UI](#)
-- [Windi CSS](#)
-- [Uno CSS](#)
-- [Stitches](#)
-- [Vanilla Extract](#)
-- [React Hook Form](#)
-- [Zod](#)
-- [HyGraph](#)
-- [Prisma](#)
+- [React](#) 🔴
+- [Next](#) 🔴
+- [Vue](#) 🔴
+- [Bootstrap](#) 🔴
+- [Nest](#) 🔴
+- [Node.js](#) 🟡
+
+
 
 ## 🕵🏻 Segurança da Informação
 
-> Seção de estudos que irá encaminhar você para aba segurança da informação.
+> Seção de estudos sobre segurança da informação.
 
-- [Crowsec EdTech](#)
-- [Desec Security](#)
-- [Solyd Offensive Security](#)
-- [eLearnSecurity](#)
-- [Offensive Pentesting](#)
-- [Pentester Academy](#)
-- [TCM Security](#)
+- [Crowsec EdTech](#) 🔴
+- [Desec Security](#) 🔴
+- [Solyd Offensive Security](#) 🔴
+- [eLearnSecurity](#) 🔴
+- [Offensive Pentesting](#) 🔴
+- [Pentester Academy](#) 🔴
+- [TCM Security](#) 🔴
