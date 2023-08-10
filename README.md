@@ -2,7 +2,7 @@
   <a href="">
     <img src="./images/guia.png" alt="Guia pessoal de estudos" width="160" height="160">
   </a>
-  <h1 align="center">Minha Stack/h1>
+  <h1 align="center">Minha Stack</h1>
 </p>
 
 ## :dart: Minha stack em desenvolvimento.
