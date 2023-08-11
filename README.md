@@ -40,7 +40,7 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 - [🎲 Banco de Dados](#-banco-de-dados) <br>
 - [💾 Sistemas Operacionais](#-sistemas-operacionais) <br>
 - [📚 Conteúdo Complementar](#-conteúdo-complementar) <br>
-- [🧑🏻‍💻 Linguagens de programação](#-linguagens-de-programacao) <br>
+- [🧑🏻‍💻 Linguagens de programação](#-Linguagens-de-programação) <br>
 - [🎨 Design & UX/UI](#-design--uxui) <br>
 - [🛠️ Ferramentas & Extensões](#%EF%B8%8F-ferramentas--extensões) <br>
 - [🗂️ Frameworks & Tecnologias](#%EF%B8%8F-frameworks--tecnologias) <br>
