@@ -79,6 +79,7 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 
 - [API Rest](#) 🟡
 - [API GraphQL](#) 🔴
+- [API SOAP](#) 🔴
 
 ## 📦 Gerenciadores de Pacotes
 
@@ -109,7 +110,7 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 > Seção de estudos sobre sistemas operacionais.
 
 - [Windows](#) 🟢
-- [Windows Server](#) 
+- [Windows Server](#) 🔴
 - [Ubuntu](#) 🟢
 - [Debian](#) 🟢
 - [Kali Linux](#) 🟡
