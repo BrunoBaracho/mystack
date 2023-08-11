@@ -20,7 +20,7 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 ## 💡 Proposta desse repositório
 
 > A proposta deste repositório é mostrar para aqueles que desejam saber, como anda o desenvolvimento da minha stack pessoal, fique à vontade para usar-lá como base para sua própria stack. Os links abaixo também te auxiliaram em seus estudos.
-> Para facilitar o entendimento as marcações em 🟢 serão de conteudos concluidos, as de 🟡 serão em estudo e as 🔴 em espera.
+> Para facilitar o entendimento as marcações em 🟢 serão de conteúdos concluidos, as de 🟡 serão em estudo e as 🔴 em espera.
 
 - [Guia de Cyber Security](https://github.com/arthurspk/guiadecybersecurity)
 - [Guia Extenso de Programação](https://github.com/arthurspk/guiadevbrasil)
