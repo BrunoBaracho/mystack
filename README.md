@@ -10,16 +10,9 @@
 Esse roadmap é um guia de estudos particular utilizado de base para meus estudos
 de linguagens de programação, bibliotecas, frameworks e banco de dados.
 
-<sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
-[<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/arthurspk)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/arthurspk/](https://www.linkedin.com/in/bruno-baracho-655868212/))
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NbMQUPjHz7)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/guiadevbrasil/)
-</sub>
-
 ## 💡 Proposta desse repositório
 
-> A proposta deste repositório é mostrar para aqueles que desejam saber, como anda o desenvolvimento da minha stack pessoal, fique à vontade para usar-lá como base para sua própria stack. Os links abaixo também te auxiliaram em seus estudos.
+> A proposta deste repositório é mostrar, como anda o meu desenvolvimento pessoal, fique à vontade para usar-lá como base para sua própria stack. Os links abaixo também te auxiliaram em seus estudos.
 > Para facilitar o entendimento as marcações em 🟢 serão de conteúdos concluidos, as de 🟡 serão em estudo e as 🔴 em espera.
 
 - [Guia de Cyber Security](https://github.com/arthurspk/guiadecybersecurity)
@@ -85,9 +78,9 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 
 > Seção de estudos sobre gereciadores de pacotes.
 
-- [NPM](#) 🟡
+- [NPM](#)  🟢
 - [pNpm](#) 🔴
-- [Yarn](#) 🟡
+- [Yarn](#) 🟢
 
 ## 🧪 Testes Unitários
 
@@ -115,19 +108,19 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 - [Debian](#) 🟢
 - [Kali Linux](#) 🟡
 - [Parrot Security](#) 🟡
-- [MacOS OS X](#) 🔴
+- [MacOS](#) 🟢
 
 ## 📚 Conteúdo Complementar
 
 >Seção sobre alguns estudos complementares.
 
-- [Algoritmos](#) 🟡
+- [Algoritmos](#) 🟢
 - [Redes de Computadores](#) 🟢
 - [Arquitetura de Redes](#) 🟢
 - [Lógica de Programação](#) 🟢
 - [Estrutura de dados](#) 🟢
 - [Protocos da Internet](#) 🟡
-- [Expressões Regulares](#) 🟡
+- [Expressões Regulares](#) 🟢
 
 ## 🧑🏻‍💻 Linguagens de programação
 
@@ -140,7 +133,7 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 - [HTML](#) 🟢
 - [CSS](#) 🟢
 - [JavaScript](#) 🟢
-- [TypeScript](#) 🟡
+- [TypeScript](#) 🟢
 - [Python](#) 🟢
 - [Golang](#) 🔴
 - [Shell Script](#) 🔴
@@ -152,7 +145,7 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 - [Figma](#) 🟢
 - [Canva](#) 🟢
 - [Adobe XD](#) 🟢
-- [UI & UX Design](#) 🟡
+- [UI & UX Design](#) 🟢
 - [Adobe Premiere Pro](#) 🟡
 - [Adobe Photoshop ES6](#) 🟡
 
@@ -166,7 +159,7 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 - [Terminal](#) 🟢
 - [Docker](#) 🟢
 - [Postman](#) 🔴
-- [Insomnia](#) 🟡
+- [Insomnia](#) 🟢
 - [Virtual Box](#) 🟢
 - [Visual Studio Code](#) 🟢
 - [VMWare Workstation Pro](#) 🟢
@@ -175,8 +168,8 @@ de linguagens de programação, bibliotecas, frameworks e banco de dados.
 
 > Seção de estudos sobre frameworks e tecnologias.
 
-- [React](#) 🔴
-- [Next](#) 🔴
+- [React](#) 🟢
+- [Next](#) 🟢
 - [Vue](#) 🔴
 - [Bootstrap](#) 🔴
 - [Nest](#) 🔴
